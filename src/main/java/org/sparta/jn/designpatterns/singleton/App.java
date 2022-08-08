@@ -1,4 +1,6 @@
-package org.sparta.jn;
+package org.sparta.jn.designpatterns.singleton;
+
+import org.sparta.jn.designpatterns.singleton.SingletonExample;
 
 /**
  * Hello world!

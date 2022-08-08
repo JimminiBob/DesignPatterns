@@ -1,4 +1,4 @@
-package org.sparta.jn;
+package org.sparta.jn.designpatterns.singleton;
 
 public class SingletonExample {
 

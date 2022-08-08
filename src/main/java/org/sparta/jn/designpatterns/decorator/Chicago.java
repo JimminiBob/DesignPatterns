@@ -4,7 +4,7 @@ public class Chicago extends Pizza{
 
     @Override
     public String getDescription() {
-        return "Chicago pizza";
+        return "Chicago Pizza";
     }
 
     @Override

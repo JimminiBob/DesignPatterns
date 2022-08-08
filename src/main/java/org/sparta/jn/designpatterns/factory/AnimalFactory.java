@@ -1,4 +1,4 @@
-package org.sparta.jn.factory;
+package org.sparta.jn.designpatterns.factory;
 
 public class AnimalFactory {
     public static Speakable getAnimal(String animal) {

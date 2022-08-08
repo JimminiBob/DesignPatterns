@@ -9,6 +9,6 @@ public abstract class Sides extends Pizza {
         this.pizza = pizza;
     }
 
-    public abstract String getDescription(); //eg of abstract method
+    public abstract String getDescription(); //e.g. of abstract method
 }
 

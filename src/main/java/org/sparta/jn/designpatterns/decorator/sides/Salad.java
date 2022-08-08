@@ -15,6 +15,6 @@ public class Salad extends Sides{
 
     @Override
     public double getCost() {
-        return pizza.getCost() + 10;
+        return pizza.getCost() + 15;
     }
 }

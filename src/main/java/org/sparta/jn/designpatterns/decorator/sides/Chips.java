@@ -14,6 +14,6 @@ public class Chips extends Sides{
 
     @Override
     public double getCost() {
-        return pizza.getCost() + 10;
+        return pizza.getCost() + 5;
     }
 }
